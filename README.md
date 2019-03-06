@@ -7,6 +7,12 @@ En este repositorio puedes encontrar el código para la implementación de un in
 
 El sistema automáticamente registra los valores provenientes de sensores como (DHT11) y un sensor casero que mide la resisitividad de la tierra. Luego El arduino lo envia por medio de Ethernet con metodo POST a un script en php hospedado en 000webhost y de este lo envia a la base de datos (Real Time DataBase de FireBase Google). Cualquier persona en el mundo puede consultar la información suministrada por los sensores desde la siguiente [link](http://proyectoiieagricola.000webhostapp.com).
 
+## Circuiteria y telemática
+
+![Circuito](Circuito.jpeg)
+
+![Telematica](Telematica.jpeg)
+
 ## Configuración
 
   ### Arduino
