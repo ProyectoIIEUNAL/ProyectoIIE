@@ -16,19 +16,19 @@ El sistema automáticamente registra los valores provenientes de sensores como (
 ## Configuración
 
   ### Arduino
-    1. Instala las librerias de Ethernet
-    2. Instala las librerias del sensor DHT11
-    3. Instala las librerias del sensor SRF04
+    1. [Instala las librerias de Ethernet](https://aprendiendoarduino.wordpress.com/category/ethernet-shield/)
+    2. [Instala las librerias del sensor DHT11](https://programarfacil.com/blog/arduino-blog/sensor-dht11-temperatura-humedad-arduino/)
+    3. [Instala las librerias del sensor SRF04](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/)
     4. Compila y sube
     
   ### Script PHP
-    1. Instala las librerias de firebase para PHP
+    1. [Instala las librerias de firebase para PHP](https://firebase-php.readthedocs.io/en/stable/)
     2. Pueba y conecta
     
   ### Real time Database
-    1. Crea una cuenta en firebase
+    1. [Crea una cuenta en firebase](https://firebase.google.com/?hl=es-419)
     2. Crea un proyecto en firebase
-    3. Crea una Base de datos Real Time Data Base
+    3. [Crea una Base de datos Real Time Data Base](https://firebase.google.com/docs/database/?hl=es-419)
     4. Copia es Script de conexión para Javascript 
     5. Comectate y disfruta
 
